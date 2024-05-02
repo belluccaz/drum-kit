@@ -28,4 +28,4 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 
 ## Autor
 
-Este projeto foi desenvolvido por [Lucas Bellucci Almendra] e pode ser encontrado no GitHub em [Link para o Repositório](https://github.com/belluccaz/HELO-kit).
+Este projeto foi desenvolvido por [Lucas Bellucci Almendra] e pode ser encontrado no GitHub em [Link para o Repositório](https://github.com/belluccaz/drum-kit).
