@@ -1,6 +1,6 @@
 # Projeto Drum Kit
 
-Este é um projeto simples de um "Drum Kit" virtual, onde cada letra "w, a, s, d, j, k, l" correspondem a um botão que reproduz um som de bateria quando clicado ou pressionado no teclado.
+Este é um projeto simples de um "Drum Kit" virtual, onde as letras "w, a, s, d, j, k, l" correspondem a um botão que reproduz um som de bateria quando clicado ou pressionado no teclado.
 
 ## Como Usar
 
