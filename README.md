@@ -6,8 +6,8 @@ Este é um projeto simples de um "Drum Kit" virtual, onde as letras "w, a, s, d,
 
 1. Faça o download ou clone este repositório em sua máquina.
 2. Abra o arquivo `index.html` em seu navegador da web.
-3. Clique nos botões correspondentes às letras do nome "HELOISA" para reproduzir os sons do kit de bateria.
-4. Você também pode pressionar as teclas "H", "E", "L", "O", "I", "S" ou "A" em seu teclado para reproduzir os sons correspondentes.
+3. Clique nos botões correspondentes às letras "wasdjkl" para reproduzir os sons do kit de bateria.
+4. Você também pode pressionar as teclas em seu teclado para reproduzir os sons correspondentes.
 
 ## Tecnologias Utilizadas
 
